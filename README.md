@@ -2,5 +2,6 @@
 Uses of Constructor & Type of Declaration of Constructor
 <br>
 Using C++
-Author AKHILESH YADAV
+<br>
+Author: AKHILESH YADAV
 
