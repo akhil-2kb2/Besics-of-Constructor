@@ -22,5 +22,6 @@ int main()
 {
         Pattern2 c1;
         c1.Patt2();
+        cout<<"Hi All!"<<endl;
         return 0;
 }
