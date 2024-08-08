@@ -22,6 +22,7 @@ int main()
 {
         Pattern2 c1;
         c1.Patt2();
+        cout<<"Hi All!"<<endl;
         cout<<"What is the output of the above code?"<<endl;
         return 0;
 }
